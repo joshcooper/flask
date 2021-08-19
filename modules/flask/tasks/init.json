@@ -1,0 +1,10 @@
+{
+  "description": "Testing...",
+  "input_method": "environment",
+  "parameters": {
+    "foo": {
+      "type": "String",
+      "description": "blarg"
+    }
+  }
+}
