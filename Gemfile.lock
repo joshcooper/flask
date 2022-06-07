@@ -86,7 +86,7 @@ GEM
     highline (1.6.21)
     hocon (1.3.0)
     httpclient (2.8.3)
-    jmespath (1.4.0)
+    jmespath (1.6.1)
     jwt (2.2.1)
     lino (1.1.0)
       hamster (~> 3.0)
